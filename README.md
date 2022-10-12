@@ -17,7 +17,7 @@
 ![GitHub](https://shields.io./badge/-GitHub-090909?style=for-the-badge&logo=GitHub)
 
 ## Testing Documentation
-[![BugReports](https://docs.google.com/spreadsheets/d/1HiE1zIsZAyL3BobBsSlGJ_64gnUYZ_ZeRDCKQmn_ONI/edit#gid=932421236)](https://docs.google.com/spreadsheets/d/1HiE1zIsZAyL3BobBsSlGJ_64gnUYZ_ZeRDCKQmn_ONI/edit#gid=932421236)
+[BugReports](https://docs.google.com/spreadsheets/d/1HiE1zIsZAyL3BobBsSlGJ_64gnUYZ_ZeRDCKQmn_ONI/edit#gid=932421236)
 
 ## Follow me
 [![Telegram](https://shields.io./badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/YaroslavOleksiienko)
