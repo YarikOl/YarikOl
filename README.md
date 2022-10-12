@@ -3,6 +3,7 @@
 ## I'm a beginner QA Engineer
 
 ## My CV
+[Link my CV](https://drive.google.com/file/d/1a0ee5B4ct2gIyreJ_5Sug4xTjsxPDRIw/view?usp=sharing)
 
 
 ## Languages and tools
@@ -18,6 +19,10 @@
 
 ## Testing Documentation
 [BugReports](https://docs.google.com/spreadsheets/d/1HiE1zIsZAyL3BobBsSlGJ_64gnUYZ_ZeRDCKQmn_ONI/edit#gid=932421236)
+
+[Test Cases](https://docs.google.com/spreadsheets/d/1s6CwLyYOLNPTHRVIY6HAIqao45pawovG/edit?usp=sharing&ouid=110841735983165948116&rtpof=true&sd=true)
+
+[Checklist](https://docs.google.com/spreadsheets/d/1jEEam--b_EJ634bgvkLzSQ5ov6kRnuMr/edit?usp=sharing&ouid=110841735983165948116&rtpof=true&sd=true)
 
 ## Follow me
 [![Telegram](https://shields.io./badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/YaroslavOleksiienko)
