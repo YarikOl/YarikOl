@@ -1,6 +1,6 @@
 [![Header](https://github.com/YarikOl/YarikOl/blob/main/assets/unnamed.png)](https://github.com/YarikOl/YarikOl)
 
-About me
+## I'm a beginner QA Engineer
 
 Languages and tools
 
