@@ -16,6 +16,6 @@
 ![GitHub](https://shields.io./badge/-GitHub-090909?style=for-the-badge&logo=GitHub)
 
 ## Follow me
-[![Telegram](https://shields.io./badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/https://t.me/YaroslavOleksiienko)
+[![Telegram](https://shields.io./badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/YaroslavOleksiienko)
 [![Insagram](https://shields.io./badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://instagram.com/yarik_olexeenko)
 [![Linkedin](https://shields.io./badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/yaroslav-oleksiienko/)
