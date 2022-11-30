@@ -18,7 +18,7 @@
 ![GitHub](https://shields.io./badge/-GitHub-090909?style=for-the-badge&logo=GitHub)
 
 ## Testing Documentation
-[BugReports](https://docs.google.com/spreadsheets/d/1HiE1zIsZAyL3BobBsSlGJ_64gnUYZ_ZeRDCKQmn_ONI/edit#gid=932421236)
+[BugReports](https://docs.google.com/spreadsheets/d/1J2j7BSFeJvkYD8fDHoU9g3lwmJIOrG89CBQrigPYqOc/edit?usp=sharing)
 
 [Test Cases](https://docs.google.com/spreadsheets/d/1s6CwLyYOLNPTHRVIY6HAIqao45pawovG/edit?usp=sharing&ouid=110841735983165948116&rtpof=true&sd=true)
 
