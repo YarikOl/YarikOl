@@ -22,7 +22,7 @@
 
 [Test Cases](https://docs.google.com/spreadsheets/d/1s6CwLyYOLNPTHRVIY6HAIqao45pawovG/edit?usp=sharing&ouid=110841735983165948116&rtpof=true&sd=true)
 
-[Checklist](https://docs.google.com/spreadsheets/d/1jEEam--b_EJ634bgvkLzSQ5ov6kRnuMr/edit?usp=sharing&ouid=110841735983165948116&rtpof=true&sd=true)
+[Checklist](https://docs.google.com/spreadsheets/d/1IHxPwSrxZsi6Djwe9o4U_buunNP-BnDKuxiVIccJG3Y/edit?usp=sharing)
 
 ## Follow me
 [![Telegram](https://shields.io./badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/YaroslavOleksiienko)
