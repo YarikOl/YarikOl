@@ -3,7 +3,7 @@
 ## I'm a beginner QA Engineer
 
 ## My CV
-[Link my CV](https://drive.google.com/file/d/1a0ee5B4ct2gIyreJ_5Sug4xTjsxPDRIw/view?usp=sharing)
+[Link my CV](https://drive.google.com/file/d/1lErrlp5pPDQn8zkdTqGmrGDpChmo7sij/view?usp=sharing)
 
 
 ## Languages and tools
