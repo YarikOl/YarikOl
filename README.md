@@ -1,5 +1,6 @@
 ## Hi there!👋
-### I'm Yaroslav Oleksiienko, a QA Engineer from Ukraine. Now, I'm looking for a job where I can apply my skills and learn new ones
+### I'm Yaroslav Oleksiienko, a QA Engineer from Ukraine. I am currently looking for a job where I can apply my skills and learn new ones
+
 
 ## My CV
 [Link my CV](https://drive.google.com/file/d/1z2oIvQnA7lavbU_c4fCN5vYh8e1hc6Hq/view?usp=sharing)
