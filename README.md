@@ -1,7 +1,7 @@
 [![Header](https://github.com/YarikOl/YarikOl/blob/main/assets/unnamed.png)](https://github.com/YarikOl/YarikOl)
 
 ## Hi there!👋
-### I'm Yaroslav Oleksiienko, a QA Engineer from Ukraine.
+### I'm Yaroslav Oleksiienko, a QA Engineer from Ukraine. Now, I'm looking for a job where I can apply my skills and learn new ones
 
 ## My CV
 [Link my CV](https://drive.google.com/file/d/1z2oIvQnA7lavbU_c4fCN5vYh8e1hc6Hq/view?usp=sharing)
@@ -17,6 +17,8 @@
 ![Selenium](https://shields.io./badge/-Selenium-090909?style=for-the-badge&logo=Selenium)
 ![Python](https://shields.io./badge/-Python-090909?style=for-the-badge&logo=Python)
 ![GitHub](https://shields.io./badge/-GitHub-090909?style=for-the-badge&logo=GitHub)
+![Playwright](https://shields.io./badge/-Playwright-090909?style=for-the-badge&logo=Playwright)
+![Locust](https://shields.io./badge/-Locust-090909?style=for-the-badge&logo=Locust)
 
 ## Testing Documentation
 [BugReports](https://docs.google.com/spreadsheets/d/1J2j7BSFeJvkYD8fDHoU9g3lwmJIOrG89CBQrigPYqOc/edit?usp=sharing)
