@@ -1,5 +1,3 @@
-[![Header](https://github.com/YarikOl/YarikOl/blob/main/assets/unnamed.png=100)](https://github.com/YarikOl/YarikOl)
-
 ## Hi there!👋
 ### I'm Yaroslav Oleksiienko, a QA Engineer from Ukraine. Now, I'm looking for a job where I can apply my skills and learn new ones
 
