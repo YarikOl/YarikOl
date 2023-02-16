@@ -1,7 +1,7 @@
 [![Header](https://github.com/YarikOl/YarikOl/blob/main/assets/unnamed.png)](https://github.com/YarikOl/YarikOl)
 
 ## Hi there!👋
-# I'm Yaroslav Oleksiienko, a QA Engineer from Ukraine.
+### I'm Yaroslav Oleksiienko, a QA Engineer from Ukraine.
 
 ## My CV
 [Link my CV](https://drive.google.com/file/d/1z2oIvQnA7lavbU_c4fCN5vYh8e1hc6Hq/view?usp=sharing)
