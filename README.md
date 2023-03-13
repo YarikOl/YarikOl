@@ -3,7 +3,7 @@
 
 
 ## My CV
-[Link my CV](https://drive.google.com/file/d/12Dp8UWsXlCKp8EWxa43ITKGSS9F0VZTy/view?usp=sharing)
+[Link my CV](https://drive.google.com/file/d/1u4L9g4NIHTF9CrNNBzfRZlplpxp1KwCW/view?usp=sharing)
 
 
 ## Languages and tools
